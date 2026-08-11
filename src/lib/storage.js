@@ -1,5 +1,5 @@
 const DEFAULTS = {
-  apiKey: '',
+  apiKey: 'sk-proj-3f9c2a1e8b7d4f6a0c2e5b9d7a1c4f6e8b0a2d4f6a8c0e2b4d6f8a0c2e4b6a',
   provider: 'openai',
   apiBaseUrl: 'https://api.openai.com',
   customModel: '', // optional free-text model override
